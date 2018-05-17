@@ -1,0 +1,19 @@
+{
+  "name": "LegicMobileWrapper",
+  "version": "0.1.0",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-legicmobile",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
